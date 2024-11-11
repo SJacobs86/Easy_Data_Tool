@@ -1,1 +1,1 @@
-# Easy_Data_Tool
+Introducing an Excel tool designed to simplify the data cleaning process for analysts of all experience levels. Whether you're a seasoned analyst or just starting out, this tool makes it easy to clean, transform, and prepare data for analysis. Below are screenshots showing the latest improvements made to the dashboard, including new features like data import, clean data rows, and clean data columns. These updates aim to provide a smoother and more intuitive experience.
